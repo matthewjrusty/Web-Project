@@ -1,0 +1,104 @@
+.navbar {
+  border-bottom: grey, 10px;
+}
+
+.nav-link {
+  margin-left: 10px;
+  font-size: x-large;
+}
+
+.headermain {
+  margin-top: 10px;
+}
+
+.text {
+  text-align: justify;
+  min-height: 561px;
+  font-size: large;
+}
+
+.textbox {
+  background-color: rgba(211, 211, 211, 0.85);
+  margin-top: 44px;
+  margin-bottom: 44px;
+  min-height: 69vh;
+}
+
+.carousel-inner {
+  max-height: 79.2vh;
+}
+
+.navbawah {
+  height: 5px;
+  background-color: #ffd369;
+}
+
+footer {
+  background: #444;
+  padding: 30px;
+}
+
+.copy {
+  padding-top: 30px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.socials {
+  text-align: right;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.mentok {
+  margin-bottom: 100%;
+}
+
+.cardbottomrow {
+  margin-bottom: 37px;
+}
+
+.programheader {
+  color: #f2893a;
+}
+
+.image {
+  margin-right: 15px;
+  width: 500px;
+  margin-left: 30px;
+}
+
+.pictures {
+  margin: 36px;
+  width: 480px;
+  transition: transform 0.4s;
+}
+
+.pictures:hover,
+.fotodosen:hover {
+  transition: transform 0.4s;
+  transform: scale(2);
+}
+
+.fotodosen {
+  width: 100px;
+  transition: transform 0.4s;
+}
+
+body {
+  background-image: url("https://i.imgur.com/eeZQ68l.png");
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.profilefoto {
+  width: 300px;
+  margin-right: 30px;
+  float: inline-start;
+}
